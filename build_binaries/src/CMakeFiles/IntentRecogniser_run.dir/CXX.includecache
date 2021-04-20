@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rakesh/Desktop/test/Assignment_1/src/IntentRecogniser.cpp
+IntentRecogniser.h
+/home/rakesh/Desktop/test/Assignment_1/src/IntentRecogniser.h
+
+/home/rakesh/Desktop/test/Assignment_1/src/IntentRecogniser.h
+iostream
+-
+regex
+-
+string
+-
+
+/home/rakesh/Desktop/test/Assignment_1/src/main.cpp
+stdio.h
+-
+iostream
+-
+IntentRecogniser.h
+/home/rakesh/Desktop/test/Assignment_1/src/IntentRecogniser.h
+
